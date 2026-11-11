@@ -371,6 +371,4 @@ DEBUG_AI_OUTPUT=0
 
 ## 12. License / Internal Notes
 
-项目内容来源于 [PGH11/agent-learning-notes](https://github.com/PGH11/agent-learning-notes)，本仓库作为独立维护版本。
-
 本仓库目前未附带开源 License。若需开源，请补充许可协议并清理敏感配置。
